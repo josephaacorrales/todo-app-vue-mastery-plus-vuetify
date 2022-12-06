@@ -1,5 +1,7 @@
 # todo-app-vue-mastery-plus-vuetify
-I followed the Vue Mastery todo app tutorial then appended Vuetify and components to tidy things up
+Simple to-do app built following a Vue Mastery course.
+I then appended Vuetify and styled the app using it.
+Feel free to use this project however you'd like.
 
 ## Recommended IDE Setup
 
