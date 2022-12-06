@@ -1,6 +1,5 @@
-# todo-app-vue-mastery
-
-This template should help get you started developing with Vue 3 in Vite.
+# todo-app-vue-mastery-plus-vuetify
+I followed the Vue Mastery todo app tutorial then appended Vuetify and components to tidy things up
 
 ## Recommended IDE Setup
 
